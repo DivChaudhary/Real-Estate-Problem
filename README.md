@@ -42,8 +42,6 @@ Attribute Information:
     13. LSTAT    % lower status of the population
     14. MEDV     Median value of owner-occupied homes in $1000's
     
-Link to download dataset    
-
 ## Approach
 
  3 different models have trained, tested and the results have been compared.
